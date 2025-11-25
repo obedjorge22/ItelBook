@@ -10,7 +10,6 @@ function App() {
       </h1>
       <div className='m-7'>
         <p className="text-2xl text-green-600">Obed Jorge</p>
-        <p className="text-2xl text-blue-600">Efraim Raul</p>
       </div>
     </>
   );
